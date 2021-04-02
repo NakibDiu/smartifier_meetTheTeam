@@ -1,0 +1,105 @@
+[
+    {
+        "id" : "1",
+        "name" : "Md Sohan Haidear",
+        "post" : "Founder and CEO",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3dshbdyBk2qRWx0zvXStUwO2c4yx-0AVCfAwM3_pMgM2KKniXyyZ5akm6IQq2Rn7z3XCRjOEELQHAePcv0P8suCaB_hxPVeigo5bS4jXu36akZGu11gey35NHF-bs9PDxCkP4urO6gOifA7uVuoqq_Y=s903-no?authuser=0"
+    },
+    {
+        "id" : "2",
+        "name" : "Hasan Tahrim Ul Islam",
+        "post" : "Senior Marketing Executive",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3eIlOuaMqb2TZ1bJ70ILPCx5ueU3VB22bmWCNUPySMW9uz7ASuBSWq3SP_TPbqQ6j4ZnzROl0GN5fBmffGm_jDkenWWCmEssnvib9-EQv7sX2SV3M66cazg49MO0BkMSlPp-r-6xmcCam9FYukkan7cTQ=w502-h890-no?authuser=0"
+    },
+    {
+        "id" : "3",
+        "name" : "S.M. Sadman Shiper",
+        "post" : "Senior Associate, Business Development",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3f_UiolNOYi-4udtZ3-zfArlw_42o1JKXsspEve19EwiBfX5BbP0-Gx0qYuilXDtdBWlsWZD3t6vgeQFAJse6IWUimVUtbsvW8sW1tqKKzcKQUMJAK_aHtB4EWQ6PIQhXheNgXYYnxtmVpigmVpJoAa=w668-h890-no?authuser=0"
+    },
+    {
+        "id" : "4",
+        "name" : "Tamzid Ahmed",
+        "post" : "Senior Associate, Business Development",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3cjtNZ2xB9dde5_EMYn0V_o5y7RFiDTwK_MGKAOYZ8BuboSsZYwgVjI41KPK-nsMO_BHFXAy7iTiCCp7RHgizGotUDAK7PtQ4htnhgulm-9o7v9nzfRUwAtfO7cON9lyXQz-c6sIH1H4Po7vqz0qISQ=w910-h513-no?authuser=0"
+    },
+    {
+        "id" : "5",
+        "name" : "Zinia Faisal Chowdhury",
+        "post" : "Project Manager",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3c_1kVr7rEkRhw1dwNWchYGJrOEP3eJIMqdMsTQKLYPH7hoLWgqmmQ3eq5aaHFcGw7qI0g5LwQjI5VhNRHl_QxtR0NLvYx_DHguetHE19AgeSj0dFmNrYApGVwdN-NC7haYikQsNKhkgyWC1AWPhQRD=w320-h480-no?authuser=0"
+    },
+    {
+        "id" : "6",
+        "name" : "Saiduzzaman Khondhoker",
+        "post" : "Graphic Designer",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3cotipR33QvuqfIpukSw4vnxtT0tjNGN0KkCf_PVzaxsSJUNFg5SptO-N46gBvBc4ZQHQp6Em_lrKyQfCjM848aL2AV-RAR-rO1DIpVMkea7AgDXaC9SoPEuIsh4J1zGAbJwqHPBeHE24dhT_denQz9=s890-no?authuser=0"
+    },
+    {
+        "id" : "7",
+        "name" : "Shazia Shehzeen Prova",
+        "post" : "Associate, Social Media Marketing ",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3cWpMuYX0fSjImtZIdGuSeaz29ADmDQkY71VWJAOU7V_PxmAwRzcAPE_1NVnkATbRaHS1B7P3bYMKeOARbD_6xzn1WecOq8tDPwpvxPAfPzAOcYTcKPe5ILKuwMZTtwAdEFMwaliMdkM7e1yqVyYIYR=w470-h903-no?authuser=0"
+    },
+    {
+        "id" : "8",
+        "name" : "Khandaker Nuzhat Tabassum",
+        "post" : "Associate, Human Resources",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3cnr3fwDZ4Ui2gR-K7hTX3lsMH9h5X8CvanzVjWG_J0fiAbubKrKwwAAZLuFNd0s23gxaUmwtArxyz-JtfL5b36mFl5beZH9Jn8aJSSoI-MyEKh-kvtJVGTl6GREK5jA9BEeveOF9Xmu1TbC8Wd8UeF=w594-h890-no?authuser=0"
+    },
+    {
+        "id" : "9",
+        "name" : "Rehnuma Islam",
+        "post" : "Associate, Business Development",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3ddyg-aKUWRNRDzEF0Zezk2tgbKcGW4pQTmDBO7XroT8_1OY9ir1drWNKZM4D7GvbVFKSpQnHeYmJLLd4hiH05tvYnPuGJExX8ucPR4-5pRBfpxFc-O6W2Uivm9T9-Wi9UF41EAhCh4DJJy-u7JSwr1=w514-h890-no?authuser=0"
+    },
+    {
+        "id" : "10",
+        "name" : "Tanha Wahid Adrita",
+        "post" : "Associate, Social Media Marketing ",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3eq_9VmgPj7n-HAr378AQ_2wMFyGimy4zTMQNK8sFCuvKrtqBULjm-neSZID3JCTHHA1LsnRQSYOrRRcyilI80at99q8RiklMMtX1avSAG_r690hA44SpsRVlyxPbRFSOdIfhSBNGszKY1iNmqEH1uG=w594-h890-no?authuser=0"
+    },
+    {
+        "id" : "11",
+        "name" : "Imranul Bashar",
+        "post" : "Associate, Social Media Marketing ",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3dah7sdcWqmycDDtFCM2IJxBPEtz9M8U5juwvm9vHNgzo8UzU_kvA7Fof-Ldmf4R44TXuu10mE_kGx_lOcHCceZNI-JamfUS_AkdvfaZYUmkjNvzQwff1orWW3D8KKtaH3B97D6Lbni8q9QUIBlhiyv=s890-no?authuser=0"
+    },
+    {
+        "id" : "12",
+        "name" : "Seeha Zaman",
+        "post" : "Associate, Social Media Marketing ",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3eYl3U8o1eY2FHyJrolkPMlmmz0yarq3MkwQmMF99Fu5y38YT99VEmRHLVl3RKvxX2suanMLQbw_Bt556rHOYHgkrDMHa_kqV4_Teix7q8ucQ186Q0YnfPzIG-1bo8IJuezlL2JtdRfGWZrC90lxZNY=w694-h890-no?authuser=0"
+    },
+    {
+        "id" : "13",
+        "name" : "Lamesa Faria",
+        "post" : "Associate, Business Development",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3flUAyZLQsmWJUazwz-Yg7ZmZC31V5vBAp-YXGq9acRj9RGy5JczlLFCIJsEzINNP7jXorbBohBOBoKr5nMt8ACfQOqYuL5ON8phDw2mQyLltkYGwpGWRkJ8_3n5I_EzqZKoOux-ziInu4ngG6OM9q_=w594-h890-no?authuser=0"
+    },
+    {
+        "id" : "14",
+        "name" : "Tanjim Tasnia Suhita",
+        "post" : "Associate, Social Media Marketing ",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3dGnNUjRD411dHuGIZwpr-hSh0yhOV92tHCTkb_X4F1A15xJzzLMLU7XrHr57EFrudMyTYx0cr-Zu0PCFG3N6rNaKm8HbZD-Qi3OzcnK00nIIraronsLLHvD1_Np1hTeWx5uPZg0mQ2AL3JPWRLkmHG=s890-no?authuser=0"
+    },
+    {
+        "id" : "15",
+        "name" : "Abdullah Md. Atik Hossein",
+        "post" : "Associate, Video Editing",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3eBB9wh9dJYiOK-4htqfWIYT5euFW5nHre-FS-ZtNWvopz9ewhlTiWX7UVOUolwZQi3dQKxOX9bAK3wOxeiH701SRfl2W6eoB8IOyz2DJ8ZOOlmA1KrjyIItQRTpcsGUyv2IOJJ_hNrkix0qtU8hgV7=s890-no?authuser=0"
+    },
+    {
+        "id" : "16",
+        "name" : "Mushfiqur Rahman Khan Majlish",
+        "post" : "Associate, Graphic Design",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3dMQqkwTxkKZ8aW-G2WPXj5YvyNfwfs9ihxiW1W-HXelbuABdQccHj2WYn9sSH7KULMMZcWjrV1MY0ChMhwJC3FnU_2Sjv2LCN8In-1wDgkpvUfH0piO1_mIwR0BsLex_AJk6YOHkRvTUefsaLSGKA3=w598-h890-no?authuser=0"
+    },
+    {
+        "id" : "17",
+        "name" : "Md. Rafat Hasan",
+        "post" : "Associate, Social Media Marketing",
+        "image" : "https://lh3.googleusercontent.com/pw/ACtC-3fATvaX-wx_rsTShTiXawUEvR3prOH1ojmf9Gz1e4Rh6JOVmTP3j8b0f_HztnnWWJ20_nlAf1YWwsCxUXG6ovrNM-XOcZzdc80Wxq52vSXf1jM2Cb8KSBFe3xJfNEmb-wiaaJ6v9aGTcunqn5183UHY=s890-no?authuser=0"
+    }
+
+]
